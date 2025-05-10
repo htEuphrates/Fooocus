@@ -5,8 +5,8 @@
     "default_loras": [
         [
             true,
-            "epiCRealnessRC1.safetensors",
-            0.1
+            "None",
+            1.0
         ],
         [
             true,
@@ -47,8 +47,6 @@
         "epicrealismXL_vxviLastfameRealism.safetensors": "https://civitai.com/api/download/models/1522905?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "epiCRealnessRC1.safetensors": "https://civitai.com/api/download/models/1648538?type=Model&format=SafeTensor"
-    },
+    "lora_downloads": {},
     "previous_default_models": []
 }
